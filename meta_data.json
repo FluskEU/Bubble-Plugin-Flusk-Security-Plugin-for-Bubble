@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "compliance",
+        "2": "analytics",
+        "3": "technical",
+        "4": "customer support"
+    },
+    "demo_page": "https://testing-flusk-security-pl.bubbleapps.io/version-test",
+    "description": "[No WU Usage 🚀] Basic Security Plugin, checking 5 essential security vulnerabilities for you.\n\nThe results will be logged to the console on page load, for every version of your app except version LIVE.\n\nWant to go more in-depth in Bubble Security?\n\nMeet Flusk Vault, our solution for Automated Security Audits for Bubble Apps! (20+ security checks, 100% automated)\n\nTry for FREE!\n👉🏼 https://flusk.eu/products/vault\n\n➡️ Data Leak issue\n➡️ Admin dashboards protection issue\n➡️ Public sensitive URL in API call issue\n➡️ Unapproved collaborator issue\n➡️ Public sensitive parameter in API call issue\n➡️ No privacy rules defined issue\n➡️ Public Bubble editor issue\n➡️ Unprotected API Workflow issue\n➡️ Default username/password combination\n➡️ Public Swagger file issue\n➡️ No password policy issue\n➡️ Public sensitive fields issue\n➡️ Bubble API Token issue\n➡️ Temporary password issue\n➡️ Test version protection issue\n➡️ Unsafe Google Maps API Token issue\n➡️ Public file uploader issue\n➡️ Public picture uploader issue\n➡️ iFrame restriction issue\n",
+    "image": "//meta-l.cdn.bubble.io/f1690970016033x291145177145311500/Design%20sans%20titre%20%2811%29.gif",
+    "license": "open_source",
+    "link": "https://flusk.eu/products/vault",
+    "name": "Flusk | Security Plugin for Bubble",
+    "plugin_instructions": "Nothing to do: just open the console and see the results!\n\nPS : these security issues are only logged in the console when NOT live version.\nWhich means they will be logged in test version, and all your custom branches."
+}
